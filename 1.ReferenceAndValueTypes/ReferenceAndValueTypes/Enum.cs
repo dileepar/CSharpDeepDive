@@ -8,5 +8,5 @@ enum DaysOfWeek
     Thursday,
     Friday,
     Saturday,
-    Sunday
+    Sunday 
 }
