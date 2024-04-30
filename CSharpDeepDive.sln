@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.ReferenceAndValueTypes", "1.ReferenceAndValueTypes", "{928BA0D4-4FB5-4AF8-9BEA-392380DFC676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueTypes", "1.ReferenceAndValueTypes\ReferenceAndValueTypes\ReferenceAndValueTypes.csproj", "{D46769A2-A912-4427-86EB-3C0D92C422D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D46769A2-A912-4427-86EB-3C0D92C422D6} = {928BA0D4-4FB5-4AF8-9BEA-392380DFC676}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46769A2-A912-4427-86EB-3C0D92C422D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46769A2-A912-4427-86EB-3C0D92C422D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46769A2-A912-4427-86EB-3C0D92C422D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46769A2-A912-4427-86EB-3C0D92C422D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
